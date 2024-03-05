@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz,https://www.bevy.be/bevyfiles/italypremium2.xml,https://www.bevy.be/bevyfiles/italypremium.xml"
+#EXTM3U url-tvg="http://www.epgitalia.tv/gzip"
 
 #EXTINF:-1 group-title="Entertainment" tvg-id="Rai 4K.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Rai_4K_-_Logo_2017.svg",Rai 4K
 #KODIPROP:inputstreamaddon=inputstream.adaptive
