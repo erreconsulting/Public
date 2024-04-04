@@ -1,0 +1,272 @@
+#EXTM3U url-tvg="http://m3u4u.com/epg/8p4ey89gxghqqee4ng1v"
+
+#EXTINF:-1 group-title="Entertainment" tvg-id="Rai 4K.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Rai_4K_-_Logo_2017.svg",Rai 4K
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=712d8e2f3da533ec84cb99d25d617190:7e7310298e2e7176ab207c1994563c83
+https://raievent10-dash-live.akamaized.net/dash/live/664000/raievent10/manifest.mpd
+
+#EXTINF:-1 group-title="Entertainment" tvg-id="Sky.Uno.HD.it" tvg-logo="https://it.imageservice.sky.com/pd-logo/skychb_477skyunodark/200/50?output-format=webp",Sky Uno
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=0036a75f2902fa90a1e97c2e01d9f012:729f1fda62d44e22b909a3426f042c1b
+https://linear313-it-dash1-prd.selector.skycdn.it/016a/32477/FHD/skyuno/master.mpd
+
+#EXTINF:-1 group-title="Entertainment" tvg-id="Sky.Atlantic.HD.it" tvg-logo="https://it.imageservice.sky.com/pd-logo/skychb_226skyatlantichddark/200/50?output-format=webp",Sky Atlantic
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=00366085f6118d07db0355d7055587ba:8070ca90959b01fc5308dda7e067a5f4
+https://linear315-it-dash1-prd-akp2.cdn13.skycdp.com/016a/31226/FHD/skyatlantic/master.mpd
+
+#EXTINF:-1 group-title="Entertainment" tvg-id="Sky.Serie.HD.it" tvg-logo="https://it.imageservice.sky.com/pd-logo/skychb_684skyseriehddark/200/50?output-format=webp",Sky Serie 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=0036a5f9c0554a65b1c7305f69f0958f:d2ce8edb5f7159aa4d78eecc04d9be89
+https://linear315-it-dash1-prd-akp2.cdn13.skycdp.com/016a/31684/FHD/skyserie/master.mpd
+
+#EXTINF:-1 group-title="Entertainment" tvg-id="Sky.Investigation.HD.it" tvg-logo="https://it.imageservice.sky.com/pd-logo/skychb_686skyinvestigationhddark/200/50?output-format=webp",Sky Investigation 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=00368c1f0e6a47ed5d835d33f2db9ccd:a5ab5606252393859198e788d61537e8
+https://linear315-it-dash1-prd.selector.skycdn.it/016a/32686/FHD/skyinvestigation/master.mpd
+
+#EXTINF:-1 group-title="Entertainment" tvg-id="Crime.+.Inv..HD.it" tvg-logo="https://it.imageservice.sky.com/pd-logo/skychb_249skycrimedark/200/50?output-format=webp",Sky Crime
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=00360eb36a69d411ebf17322afc2bc42:27321b55522564f713ae6fc17fb6e7e7
+https://linear315-it-dash1-prd.selector.skycdn.it/016a/32249/FHD/skycrime/master.mpd
+
+#EXTINF:-1 group-title="Entertainment" tvg-id="History.HD.it" tvg-logo="https://it.imageservice.sky.com/pd-logo/skychb_143historydark/200/50?output-format=webp",History Channel
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=00362ec3497a383021f1db77c8556614:8820fb9b2afd6e1a3f4f5ab1ba4a73ad
+https://linear313-it-dash1-prd.selector.skycdn.it/016a/31513/FHD/history/master.mpd
+
+#EXTINF:-1 group-title="Entertainment" tvg-id="Sky.Documentaries.it" tvg-logo="https://it.imageservice.sky.com/pd-logo/skychb_697skydocumentarieshddark/200/50?output-format=webp",Sky Documentaries
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=003669a017d4026c8b9f96d38148348a:65ad96c9ca9582965f812237b5c4a112
+https://linear313-it-dash1-prd.selector.skycdn.it/016a/31697/FHD/skydocumentaries/master.mpd
+
+#EXTINF:-1 group-title="Entertainment" tvg-id="Sky.Nature.HD.it" tvg-logo="https://it.imageservice.sky.com/pd-logo/skychb_695skynaturehddark/200/50?output-format=webp",Sky Nature 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=0036d87092df2f78eaff44513c7467d6:8f1a3351bbf207d09788a205532df974
+https://linear313-it-dash1-prd.selector.skycdn.it/016a/32695/FHD/skynature/master.mpd
+
+#EXTINF:-1 group-title="Entertainment" tvg-id="Sky.Arte.HD.it" tvg-logo="https://it.imageservice.sky.com/pd-logo/skychb_75skyartedark/200/50?output-format=webp",Sky Arte
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=0036a143ccf84beab5851f69124db39a:472a2f2fd608d701d5f3bd64bc3181a3
+https://linear313-it-dash1-prd-akp2.cdn13.skycdp.com/016a/32074/FHD/skyarte/master.mpd
+
+#EXTINF:-1 group-title="Entertainment" tvg-id="Comedy.Central.it" tvg-logo="https://it.imageservice.sky.com/pd-logo/skychb_404comedycentraldark/200/50?output-format=webp",Comedy Central
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=0036f3ec4ac7d836b5bf9fa79f3041b6:c02271563d97b1e7e755484279f2b55c
+https://linear309-it-dash1-prd-akp2.cdn13.skycdp.com/016a/32404/comedycentral/master.mpd
+
+#EXTINF:-1 group-title="Entertainment" tvg-id="MTV.HD.it" tvg-logo="https://it.imageservice.sky.com/pd-logo/skychb_414mtvdark/200/50?output-format=webp",MTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=00364d417e7aab8e6a92c963f2d24549:a875a90e31b98eab8430e894ee5a853e
+https://linear315-it-dash1-prd-akp2.cdn13.skycdp.com/016a/32763/FHD/mtvnext/master_sd.mpd
+
+#EXTINF:-1 group-title="Sport" tvg-id="Sky.Sport24.it" tvg-logo="https://it.imageservice.sky.com/pd-logo/skychb_35skysport24hddark/200/50?output-format=webp",Sky Sport 24
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=003618ccd7be22b6367207ed8d64d505:36e97f29ec5ea6126077cc040cc2ceeb
+https://linear303-it-dash1-prd-akp2.cdn13.skycdp.com/016a/31035/FHD/skysport24/master.mpd
+
+#EXTINF:-1 group-title="Sport" tvg-id="Sky.Sport.Uno.it" tvg-logo="https://it.imageservice.sky.com/pd-logo/skychb_23skysportunohddark/200/50?output-format=webp",Sky Sport Uno
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=00362452ed102000ccea64c311921dc2:02f27bd6caab7633d3083b94d3958b1c
+https://linear301-it-dash1-prd.selector.skycdn.it/016a/31023/FHD/skysportuno/master.mpd
+
+#EXTINF:-1 group-title="Sport" tvg-id="Sky.Sport.F1.HD.it" tvg-logo="https://it.imageservice.sky.com/pd-logo/skychb_478skysportf1hddark/200/50?output-format=webp",Sky Sport F1
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=00366649eb2eb82ee172e1bd310e4136:27e85c17d97722288ffa5970389d8baf
+https://linear307-it-dash1-prd-akp2.cdn13.skycdp.com/016a/31478/FHD/skysportf1/master.mpd
+
+#EXTINF:-1 group-title="Sport" tvg-id="Sky.Sport.MotoGP.it" tvg-logo="https://it.imageservice.sky.com/pd-logo/skychb_483skysportmotogphddark/200/50?output-format=webp",Sky Sport Moto Gp
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=0036ea2e908d4cc20ef08595da9ff991:08e1ae9fa0ee4d9ec2b194c4908613ae
+https://linear306-it-dash1-prd.selector.skycdn.it/016a/31483/FHD/skysportmotogp/master.mpd
+
+#EXTINF:-1 group-title="Sport" tvg-id="Sky.Sport.Calcio.HD.it" tvg-logo="https://it.imageservice.sky.com/pd-logo/skychb_209skysportcalciodark/200/50?output-format=webp",Sky Sport Calcio 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=0036e5d0e88dfb087f1791da6150ced9:0bc653d830837dceb13bd17169f0f8e2
+https://linear302-it-dash1-prd-akp2.cdn13.skycdp.com/016a/31209/FHD/skysportseriea/master.mpd
+
+#EXTINF:-1 group-title="Sport" tvg-id="Sky.Sport.Tennis.HD.it" tvg-logo="https://it.imageservice.sky.com/pd-logo/skychb_559skysporttennisdark/200/50?output-format=webp",Sky Sport Tennis 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=00360f4f90045f029a53a022738c2422:fa39fd500dc4e291801a710499634330
+https://linear310-it-dash1-prd-akp2.cdn13.skycdp.com/016a/32559/FHD/skysporttennis/master.mpd
+
+#EXTINF:-1 group-title="Sport" tvg-id="Sky.Sport.Arena.it" tvg-logo="https://it.imageservice.sky.com/pd-logo/skychb_24skysportarenahddark/200/50?output-format=webp",Sky Sport Arena
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=00364ee1c777f44a74e4df12f3095503:77dee68a39366663755beb8fa62dcc1e
+https://linear304-it-dash1-prd-akp2.cdn13.skycdp.com/016a/31024/FHD/skysportarena/master.mpd
+
+#EXTINF:-1 group-title="Sport" tvg-id="Sky.Sport.Football.HD.it" tvg-logo="https://it.imageservice.sky.com/pd-logo/skychb_248skysportmaxdark/200/50?output-format=webp",Sky Sport Max
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=0036ae9248d939e4e1cd2198d2593a42:efc6699e1756403916b0280ea63f4c28
+https://linear305-it-dash1-prd-akp2.cdn13.skycdp.com/016a/31248/FHD/skysportmax/master.mpd
+
+#EXTINF:-1 group-title="Sport" tvg-id="Sky.Sport.NBA.it" tvg-logo="https://it.imageservice.sky.com/pd-logo/skychb_764skysportnbahddark/200/50?output-format=webp",Sky Sport NBA
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=0036c4e453ae2a044f4c861ed73b560a:ea5626c0aa092c382ca58151b5f4b208
+https://linear308-it-dash1-prd-akp2.cdn13.skycdp.com/016a/31764/FHD/skysportnba/master.mpd
+
+#EXTINF:-1 group-title="Sport" tvg-id="Sky.Sport.Golf.HD.it" tvg-logo="https://it.imageservice.sky.com/pd-logo/skychb_768skysportgolfdark/200/50?output-format=webp",Sky Sport Golf
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=0036a02f08506f8428164d78e3ebb6de:8708612971e3cfa8e03698996b1a3b7f
+https://linear309-it-dash1-prd-akp2.cdn13.skycdp.com/016a/32768/FHD/skysportgolf/master.mpd
+
+#EXTINF:-1 group-title="Sport" tvg-id="Eurosport.HD.it" tvg-logo="https://it.imageservice.sky.com/pd-logo/skychb_705eurosportdark/200/50?output-format=webp",Eurosport 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=0036bb3fa7e6f2c334d7cba5c28b6caf:217fa35739cd68e90b2cd23322c01312
+https://linear311-it-dash1-prd.selector.skycdn.it/016a/313073/FHD/eurosport/master.mpd
+
+#EXTINF:-1 group-title="Sport" tvg-id="Eurosport 2 HD.it" tvg-logo="https://it.imageservice.sky.com/pd-logo/skychb_207eurosport2dark/200/50?output-format=webp",Eurosport 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=003670a7034342a4a07c91173818c61c:7b90055c1a1ea34d9090e9ebf6c4db8a
+https://linear312-it-dash1-prd-akp2.cdn13.skycdp.com/016a/31150/FHD/eurosport2/master.mpd
+
+#EXTINF:-1 group-title="Sport" tvg-id="Sky Sport 251" tvg-logo="https://it.imageservice.sky.com/pd-logo/skychb_234skysportdark/200/50?output-format=webp",Sky Sport 251
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=00368000eaecbeeafd84c05b3b8243af:8f84185910e18ae0ca8a45004625a000
+https://linear311-it-dash1-prd.selector.skycdn.it/016a/31917/FHD/skysport251/master.mpd
+
+#EXTINF:-1 group-title="Sport" tvg-id="Sky Sport 252" tvg-logo="https://it.imageservice.sky.com/pd-logo/skychb_234skysportdark/200/50?output-format=webp",Sky Sport 252
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=0036c4797608fc64296d437bc6f8b790:1689af84b23f514005f9bb854da7667f
+https://linear312-it-dash1-prd.selector.skycdn.it/016a/32951/FHD/skysport252/master.mpd
+
+#EXTINF:-1 group-title="Sport" tvg-id="Sky Sport 253" tvg-logo="https://it.imageservice.sky.com/pd-logo/skychb_234skysportdark/200/50?output-format=webp",Sky Sport 253
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=00365b169a077daac5081277c3fd0c28:f68ab32a552e13509a8ee1c4d96204bc
+https://linear311-it-dash1-prd.selector.skycdn.it/016a/32233/FHD/skysport253/master.mpd
+
+#EXTINF:-1 group-title="Sport" tvg-id="Sky Sport 254" tvg-logo="https://it.imageservice.sky.com/pd-logo/skychb_234skysportdark/200/50?output-format=webp",Sky Sport 254
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=00369c14c20b78aadb1ec0e3c0e74979:e768767e2c7238d8069887bb36aed7fa
+https://linear312-it-dash1-prd.selector.skycdn.it/016a/31234/FHD/skysport254/master.mpd
+
+#EXTINF:-1 group-title="Sport" tvg-id="Sky Sport 255" tvg-logo="https://it.imageservice.sky.com/pd-logo/skychb_234skysportdark/200/50?output-format=webp",Sky Sport 255
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=0036b781a22ebb0c20c16ac27d5d1448:f309b94acfda720bf1ed5741489f8967
+https://linear311-it-dash1-prd.selector.skycdn.it/016a/32910/FHD/skysport255/master.mpd
+
+#EXTINF:-1 group-title="Sport" tvg-id="Sky Sport 256" tvg-logo="https://it.imageservice.sky.com/pd-logo/skychb_234skysportdark/200/50?output-format=webp",Sky Sport 256
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=00366f263859fc1cc82d2c4da6a66ef6:754ae922d113c54349002cd9a88694a4
+https://linear312-it-dash1-prd.selector.skycdn.it/016a/31912/FHD/skysport256/master.mpd
+
+#EXTINF:-1 group-title="Sport" tvg-id="Sky Sport 257" tvg-logo="https://it.imageservice.sky.com/pd-logo/skychb_234skysportdark/200/50?output-format=webp",Sky Sport 257
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=0036faeace9872d3ceeb8b1b63f0baa3:dbd41ee944243307d39b7b27f16615a8
+https://linear311-it-dash1-prd-akp2.cdn13.skycdp.com/016a/31775/FHD/skysport257/master.mpd
+
+#EXTINF:-1 group-title="Sport" tvg-id="Sky Sport 258" tvg-logo="https://it.imageservice.sky.com/pd-logo/skychb_234skysportdark/200/50?output-format=webp",Sky Sport 258
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=0036fd8ccfddba47c8b40aeff63a797c:dfd5c9d0f4ac6f3a1bd89803399e7026
+https://linear312-it-dash1-prd-akp2.cdn13.skycdp.com/016a/32772/skysport258/master.mpd
+
+#EXTINF:-1 group-title="Sport" tvg-id="Sky Sport 259" tvg-logo="https://it.imageservice.sky.com/pd-logo/skychb_234skysportdark/200/50?output-format=webp",Sky Sport 259
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=0036644f7699f43e401f88d920dc385c:e5b0cebdc3edd7996d283041535fce9c
+https://linear311-it-dash1-prd-akp1.cdn13.skycdp.com/016a/31613/skysport259/master.mpd
+
+#EXTM3U
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4"
+#EXTINF:-1 tvg-id="Eurosport.1" group-title="Dazn" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/909310533195_image-header_pIt_1686238719000/fill/none/top/none/85/334/187/jpg/image",Eurosport 1
+https://dce-de-livedazn.daznedge.net/dash/dazn-linear-029/stream.mpd?p=web
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4"
+#EXTINF:-1 tvg-id="Eurosport.2" group-title="Dazn" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/909310533203_image-header_pIt_1661948953000/fill/none/top/none/85/334/187/jpg/image",Eurosport 2
+https://dce-de-livedazn.daznedge.net/dash/dazn-linear-030/stream.mpd?p=web
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4"
+#EXTINF:-1 tvg-id="Zona.DAZN" group-title="Dazn" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/909283909373_image-header_pIt_1661948686000/fill/none/top/none/85/334/187/jpg/image",Zona DAZN
+https://dce-de-livedazn.daznedge.net/dash/dazn-linear-024/stream.mpd?p=web
+
+#EXTINF:-1 group-title="Cinema" tvg-id="Sky.Cinema.Uno.HD.it" tvg-logo="https://it.imageservice.sky.com/pd-logo/skychb_202skycinemaunohddark/200/50?output-format=webp",Sky Cinema Uno
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=0036718088af0c90cd9fba4316b5cdfc:d661bbb35caca7e34e23bc49c6c6c1cc
+https://linear314-it-dash1-prd.selector.skycdn.it/016a/32202/FHD/cinemauno/master.mpd
+
+#EXTINF:-1 group-title="Cinema" tvg-id="Sky.Cinema.Comedy.HD.it" tvg-logo="https://it.imageservice.sky.com/pd-logo/skychb_30skycinemacomedyhddark/200/50?output-format=webp",Sky Cinema Comedy
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=0036f3ec4ac7d836b5bf9fa79f3041b6:c02271563d97b1e7e755484279f2b55c
+https://linear303-it-dash1-prd-akp2.cdn13.skycdp.com/016a/32030/FHD/cinemacomedy/master.mpd
+
+#EXTINF:-1 group-title="Cinema" tvg-id="Sky.Cinema.Action.HD.it" tvg-logo="https://it.imageservice.sky.com/pd-logo/skychb_206skycinemaactionhddark/200/50?output-format=webp",Sky Cinema Action
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=0036e08e9dad9fcc4d07d029daff08f0:9f73fd34aedff3fe65ae4d6be314c882
+https://linear306-it-dash1-prd-akp2.cdn13.skycdp.com/016a/31206/FHD/cinemaaction/master.mpd
+
+#EXTINF:-1 group-title="Cinema" tvg-id="Sky.Cinema.Due.HD.it" tvg-logo="https://it.imageservice.sky.com/pd-logo/skychb_564skycinemaduehddark/200/50?output-format=webp",Sky Cinema Due
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=0036f7214552ee5006e2879d029e3b16:3b606878d4d3ec0b3eab10d2c0be3404
+https://linear308-it-dash1-prd-akp2.cdn13.skycdp.com/016a/32564/FHD/cinemadue/master.mpd
+
+#EXTINF:-1 group-title="Cinema" tvg-id="Sky.Cinema.Collection.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Sky_Cinema_Collection_-_Logo_2021.svg/1920px-Sky_Cinema_Collection_-_Logo_2021.svg.png",Sky Cinema Collection
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=0036cd8cb23e5b00d9166fb8a0d3ffdb:61f79bfc7c6ada56a56fe8f8cf9c83bf
+https://linear302-it-dash1-prd.selector.skycdn.it/016a/31204/FHD/cinemacollection/master.mpd
+
+#EXTINF:-1 group-title="Cinema" tvg-id="Sky.Cinema.Family.HD.it" tvg-logo="https://it.imageservice.sky.com/pd-logo/skychb_255skycinemafamilyhddark/200/50?output-format=webp",Sky Cinema Family
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=0036c25f3464354fcb3832d2e5f11f67:adbb5a5af5ada23c9ade7df078c404f5
+https://linear305-it-dash1-prd-akp2.cdn13.skycdp.com/016a/31255/FHD/cinemafamily/master.mpd
+
+#EXTINF:-1 group-title="Cinema" tvg-id="Sky.Cinema.Suspense.HD.it" tvg-logo="https://it.imageservice.sky.com/pd-logo/skychb_47skycinemasuspensehddark/200/50?output-format=webp",Sky Cinema Suspense
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=003622ffdc876564765360b5441eb9e3:b3a089bd6fecbed72228195fcc7c7520
+https://linear307-it-dash1-prd-akp2.cdn13.skycdp.com/016a/32047/FHD/cinemasuspense/master.mpd
+
+#EXTINF:-1 group-title="Cinema" tvg-id="Sky.Cinema.Romance.HD.it" tvg-logo="https://it.imageservice.sky.com/pd-logo/skychb_231skycinemaromancehddark/200/50?output-format=webp",Sky Cinema Romance
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=0036d4dbcac875a30838bcb8d632878b:035f084643498a2f969488dccd2e8f68
+https://linear301-it-dash1-prd.selector.skycdn.it/016a/32231/FHD/cinemaromance/master.mpd
+
+#EXTINF:-1 group-title="Cinema" tvg-id="Sky.Cinema.Drama.HD.it" tvg-logo="https://it.imageservice.sky.com/pd-logo/skychb_769skycinemadramahddark/200/50?output-format=webp",Sky Cinema Drama
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=003660962dd06752d38e81eb9041679a:6e96bac4a92170941abb54eff6113442
+https://linear304-it-dash1-prd-akp2.cdn13.skycdp.com/016a/31769/FHD/cinemadrama/master.mpd
+
+#EXTINF:-1 group-title="Kids" tvg-id="Cartoon.Network.HD.it" tvg-logo="https://it.imageservice.sky.com/pd-logo/skychb_308cartoonnetworkdark/200/50?output-format=webp",Cartoon Network
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=003680814e257d49ee8cc69624115358:75ed6394c2b9fa771843c4055881b5d3
+https://linear314-it-dash1-prd-akp2.cdn13.skycdp.com/016a/31258/FHD/cartoonnetwork/master.mpd
+
+#EXTINF:-1 group-title="Kids" tvg-id="Nickelodeon.it" tvg-logo="https://it.imageservice.sky.com/pd-logo/skychb_320nickelodeondark/200/50?output-format=webp",Nickelodeon
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=0036de74cba13152fec26c1545e321bc:7d621370036995afab0e864f204aec81
+https://linear314-it-dash1-prd-akp2.cdn13.skycdp.com/016a/31320/nickelodeon/master.mpd
+
+#EXTINF:-1 group-title="Kids" tvg-id="DeAKids.it" tvg-logo="https://it.imageservice.sky.com/pd-logo/skychb_460deakidsdark/200/50?output-format=webp",Dea Kids
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=0036a24c5461c0fc2fb478b21256ada7:d182a15b72bd8d0cabfb87471fbe2d0d
+https://linear314-it-dash1-prd-akp2.cdn13.skycdp.com/016a/32460/deakids/master.mpd
+
+#EXTINF:-1 group-title="Kids" tvg-id="Nick.Jr.it" tvg-logo="https://it.imageservice.sky.com/pd-logo/skychb_424nickjrdark/200/50?output-format=webp",Nick Jr
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=00363c7796c4131c137a18be6306015f:374da626490533654bc6750bec6d6aa3
+https://linear314-it-dash1-prd-akp2.cdn13.skycdp.com/016a/32424/nickj/master.mpd
+
+#EXTINF:-1 group-title="Kids" tvg-id="Boomerang.it" tvg-logo="https://it.imageservice.sky.com/pd-logo/skychb_367boomerangdark/200/50?output-format=webp",Boomerang
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=0036e04aa472587879b346dde1835ceb:acb086af654aafcd30423b6c70da9c69
+https://linear314-it-dash1-prd-akp2.cdn13.skycdp.com/016a/31367/boomerang/master.mpd
+
+#EXTINF:-1 group-title="News" tvg-id="Sky.TG24.HD.it" tvg-logo="https://it.imageservice.sky.com/pd-logo/skychb_519skytg24dark/200/50?output-format=webp",Sky Tg 24
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=00365edc7f3e81a2be10976e63b46b57:8072faa54c2c80f416a836d415fd6989
+https://linear311-it-dash1-prd-akp2.cdn13.skycdp.com/016a/32519/FHD/tg24/master.mpd
+
+
+Top
